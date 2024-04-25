@@ -1,2 +1,2 @@
 # CTA-Strategy_Grid-Trading_Commodity-Arbitrage
-The grid trading method fundamentally relies on regression. It typically confronts systemic risk with single assets, prompting a shift towards correlated asset portfolios to hedge systemic risk through pair trading. 
+The essence of the grid trading method is regression. When facing a single asset, there is usually a certain level of systemic risk. We shift our focus to a portfolio of assets with a certain degree of correlation, using pair trading to hedge part of the systemic risk. After statistical tests for stationarity and cointegration, we select suitable commodity combinations for grid trading, including the gold-silver ratio, copper-gold ratio, and copper-oil ratio.
